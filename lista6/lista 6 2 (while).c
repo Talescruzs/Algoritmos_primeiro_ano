@@ -1,0 +1,23 @@
+/*2. Crie um programa que solicita um número inteiro infinitas vezes até que um número
+que seja ímpar seja digitado.*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+	setlocale(LC_ALL, "Portuguese");
+	int n, i=0;
+	
+	i==0;
+	while(i>-1){
+		printf("\ndigite um número inteiro ");
+		scanf("%d", &n);
+		if(n%2!=0){
+			break;
+		}
+		i++;
+		}
+	
+	
+	return 0;
+}
