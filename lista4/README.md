@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Lista 4
+=======
+# Lista 3
+>>>>>>> c8045f11db4a6c19dff0568ba8805becc1e46040
 * [Exercício 1](lista_4_1.c) - Calcule média final da disciplina de Algoritmos e Programação, mostre a média final e
 uma mensagem informando se o aluno foi aprovado (média >= 7) ou reprovado. Considere
 três avaliações
