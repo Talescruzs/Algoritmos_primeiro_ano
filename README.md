@@ -10,7 +10,8 @@ Repositório destinado a guardar as listas de exercício do primeiro ano do curs
 * [Lista 10](lista10) - Vetores
 * [Lista 11](lista11) - Matrizes
 
-##Oração do programador de C (use em momentos de desespero)
+## Oração do programador de C (use em momentos de desespero)
+
 <div align="center">
 Código nosso que está em C <br /> 
 Santificado seja vós, Console <br /> 
