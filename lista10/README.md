@@ -3,7 +3,7 @@
 o produto escalar de dois vetores de tamanho 20, tá?
 * [Exercício 2](lista_10_2.c) - Faça um programa que utilize a seguinte regra para gerar as
 posições de um vetor de 200 posições. <br /> 
-a. Posições pares: 𝑣𝑒𝑡[𝑖] = ((𝑖∗8)/3) m+ 105,9 <br /> 
+a. Posições pares: 𝑣𝑒𝑡[𝑖] = ((𝑖∗8)/3) + 105,9 <br /> 
 b. Posições ímpares: 𝑣𝑒𝑡[𝑖] = 𝑖 + (5/𝑖)+ (𝑖^2) <br /> 
 c. Primeira posição: número aleatório <br /> 
 Após gerar os números mostre-os na tela identificando quais são
